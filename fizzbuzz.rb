@@ -6,7 +6,7 @@ elsif int % 5 == 0
 elsif int % 3 == 0
     "Fizz"
 else int % 4 == 0
-    "nil"
+    nil
   end
 
 end
