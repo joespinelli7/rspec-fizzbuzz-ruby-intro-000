@@ -8,5 +8,5 @@ else int % 5 == 0
 elsif int % 15 == 0
     "Fizzbuzz"
   end
-  
+
 end
